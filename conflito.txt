@@ -1,1 +1,1 @@
-isto sto é um conflito!
+isto é um conflito!
